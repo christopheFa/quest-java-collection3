@@ -1,3 +1,5 @@
+package fr.wildcodeschool.quest;
+
 public class Hero implements Comparable<Hero> {
 
     @Override
